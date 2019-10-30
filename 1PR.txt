@@ -1,1 +1,3 @@
  I want to learn new things and improve my skills. also, I want to learn how to work for an organization. I have experience of HTML5, CSS3, Javascript, jquery, NodeJS, Socket.IO, MongoDB, SQL, GITHUB, etc and also Know Little Bit about Reactjs. I am very punctual about deadlines.
+  Open source enables technology agility, typically offering multiple ways to solve problems. Open source helps keep your IT organization from getting blocked because a particular capability isn’t available from a vendor. Instead of waiting for the vendor to deliver that capability, you can create it yourself.
+  Hence one should eagerly contribute to open sorce.
